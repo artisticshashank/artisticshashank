@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi👋 I am Shashank H U 
-<h1>i dont like to code</h1>
+
 
 
 ## 🌐 Socials:
