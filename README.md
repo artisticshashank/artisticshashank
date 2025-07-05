@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi👋 I am Shashank H U 
+<h1>Hi👋 I am Shashank H U</h1> 
+
 <svg width="626" height="159" viewBox="0 0 626 159" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="26" y="24" width="600" height="135" rx="5" fill="white"/>
 <rect width="22.6716" height="2.99944" transform="matrix(0.679659 0.733528 0.733528 -0.679659 10.2727 31.4729)" fill="#6F6F6F" fill-opacity="0.1"/>
@@ -216,9 +217,17 @@ Hi👋 I am Shashank H U
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artistic._shashank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-hu-a0b2a3328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shashank_2K06 ) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artistic._shashank)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-hu-a0b2a3328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shashank_2K06 ) 
 
-# 💻 Tech Stack:
+
+# 💻 Tech Stack:<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/srujanGowda08"
+    width="600"
+    height="120"
+  />
+</a>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=artisticshashank&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
